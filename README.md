@@ -7,3 +7,4 @@
 Input: HOT 8, 6, 4, 2, 1, 7
 Output: Removing PJs, shorts, t-shirt, sun visor, sandals, leaving house
 
+The program takes O(n) time complexity
